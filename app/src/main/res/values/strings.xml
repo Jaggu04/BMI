@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="notification">notification</string>
+    <string name="enter_height_ft">Enter Height (FT)</string>
+    <string name="enter_height_cms">Enter Height (cms)</string>
+    <string name="enter_weight">Enter Weight</string>
+    <string name="submit">Calculate BMI</string>
+    <string name="result">Result</string>
+    <string name="you_are_overweight">You are OverWeight</string>
+    <string name="you_are_underweight">You are UnderWeight</string>
+    <string name="you_are_healthy">You are Healthy</string>
+</resources>
